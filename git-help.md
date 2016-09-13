@@ -1,2 +1,3 @@
 - http://stackoverflow.com/questions/1270514/undoing-a-git-push
 - http://stackoverflow.com/questions/35330868/what-is-the-best-practice-for-using-git-on-multiple-projects-with-the-same-base
+- https://coderwall.com/p/_8dxjw/merging-a-pull-request-locally
